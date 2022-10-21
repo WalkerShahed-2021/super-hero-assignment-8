@@ -1,0 +1,9 @@
+.friend-container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+.grid-style{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
